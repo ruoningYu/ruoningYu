@@ -1,3 +1,5 @@
 ### Hi there 👋
 
-[![ruoning's github stats](//p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/1188110e11c84be89e6c60130622635a~tplv-k3u1fbpfcp-zoom-1.image)](https://github.com/ruoningYu/github-readme-stats)
+<a href="https://github.com/ruoningYu">
+  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ruoningYu&theme=algolia&show_icons=true&include_all_commits=true" />
+</a>
